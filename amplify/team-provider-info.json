@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-epicgamesdevelop-dev-161949-authRole",
+      "UnauthRoleArn": "arn:aws:iam::731369705610:role/amplify-epicgamesdevelop-dev-161949-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::731369705610:role/amplify-epicgamesdevelop-dev-161949-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-epicgamesdevelop-dev-161949-deployment",
+      "UnauthRoleName": "amplify-epicgamesdevelop-dev-161949-unauthRole",
+      "StackName": "amplify-epicgamesdevelop-dev-161949",
+      "StackId": "arn:aws:cloudformation:ap-south-1:731369705610:stack/amplify-epicgamesdevelop-dev-161949/5e8765e0-f37f-11eb-a182-0a8f1852746e",
+      "AmplifyAppId": "dkw6l1s3yfu0z"
+    },
+    "categories": {
+      "auth": {
+        "epicgamesdevelop82830f3e": {}
+      }
+    }
+  }
+}
